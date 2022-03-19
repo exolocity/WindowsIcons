@@ -3,6 +3,7 @@ windows 11 icons (.ico)
 Sources
 
 Built in: windowsApps, imageres.dll, shell32.dll, ddores.dll*, other system32 locations.
+v2 - lots of icons from microsoft docs
 
 Superfolders for the start, taskview, widgets, search, and volume icons.
 https://github.com/pronoy2108/Superfolders/tree/v4.0
