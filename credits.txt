@@ -13,7 +13,7 @@ AMD programs for AMD icons
 custom icons from custom folder: Me
 https://github.com/IconiumGraphics/windows-11-icons
 microsoft documentation pages
-various other places that i forgot about
+various other places that I forgot about
 
 You can find custom folder icons on deviantart to add to this pack
 
