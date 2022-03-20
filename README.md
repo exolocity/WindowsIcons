@@ -7,4 +7,4 @@ changelog
 v2- removed symbols, added lots of icons from microsoft documentation pages and a few other icons
 
 
-NOTE: I do not include PNGs or SVGs, don't ask for them. If you want the original images get them yourself lol
+NOTE: I do not include PNGs or SVGs, don't ask for them. I don't hold onto them so if you want the original images get them yourself lol
