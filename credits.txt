@@ -9,10 +9,8 @@ Sysinternals for internal, autoruns, packetviewer, processmonitor, and windowsob
 https://docs.microsoft.com/en-us/sysinternals/
 Powertoys for the powertoys icon.
 https://docs.microsoft.com/en-us/windows/powertoys/
-AMD programs for AMD icons
-custom icons from custom folder: Me
 https://github.com/IconiumGraphics/windows-11-icons
-microsoft documentation pages
+a bunch of different microsoft documentation pages
 various other places that I forgot about
 
 You can find custom folder icons on deviantart to add to this pack
