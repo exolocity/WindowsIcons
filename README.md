@@ -1,11 +1,11 @@
+# Windows Icon Pack
 A complete pack with lots of icons from various places in windows 11 as well as other microsoft products.
 
-.ICO format, most of these are 256x :)
+All icons are included as
+- .ICO format, mostly 256x256.
 
+## Fork Changelog
 
-changelog
-
-v2- removed symbols, added lots of icons from microsoft documentation pages and a few other icons
-
-
-NOTE: I do not include PNGs or SVGs, don't ask for them. I don't hold onto them so if you want the original images get them yourself lol
+### v2.0.1 
+> - Unpacked .zip in preparation for conversion into central .dll files for ease of use.
+> - Updated documentation.
